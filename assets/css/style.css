@@ -1118,6 +1118,9 @@ Resume Timeline
    border: 1px solid #eee;
    border-bottom: 3px double #eee;
 }
+.portfolio-bg:hover {
+    cursor: pointer;
+}
 
 
 .portfolio {
