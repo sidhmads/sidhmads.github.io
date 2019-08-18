@@ -1845,3 +1845,7 @@ Icon for all respective meta
 .parallax-container .section {
     width: 100%;
 }
+
+.textAlign {
+    text-align: initial;
+}
